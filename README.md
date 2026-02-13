@@ -157,7 +157,3 @@ Aspiring Data Analyst | Data Scientist  | Data Engineer
 ---
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
-
----
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
